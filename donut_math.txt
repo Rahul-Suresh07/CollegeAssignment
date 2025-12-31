@@ -38,5 +38,3 @@ y' = y / (z + distance)
 This formula maps 3D coordinates (x, y, z) to 2D screen coordinates (x', y').
 
 The code uses a combination of these mathematical concepts to create the rotating donut animation.
-
-Would you like more details or clarification on any specific aspect?
